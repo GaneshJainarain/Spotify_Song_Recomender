@@ -1,0 +1,3 @@
+snapshot_dir: data/raw
+max_liked_tracks: 5000
+market: US

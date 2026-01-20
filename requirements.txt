@@ -1,0 +1,8 @@
+pandas
+pyarrow
+spotipy
+python-dotenv
+tqdm
+pyyaml
+requests
+tqdm
